@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+body{
+  background-color: lightcyan;
+}
+
+p{
+  color: rgb(139, 81, 27);
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 18px;
+}
+
+li{
+    color: rgb(139, 81, 27);
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 18px;
+}
+
+h3{
+    text-align: center;
+    margin-right: 25px;
+    background-color: lightslategray;
+
+}
+
+hgroup#titulopaginas{
+    text-align: center;
+    font-size: 25px;
+}
+
+section#corpo{
+    display: block;
+    width: 600px;
+    float: left;
+    margin-left: 150px;
+}
+
+aside#lateral{
+    display: block;
+    width: 400px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+figcaption#neymar{
+    margin-left: 200px;
+}
+
+figure.foto-legenda img{
+    border-radius: 200px;
+}
+
+aside#lateralpasseios{
+    display: block;
+    width: 400px;
+    float: right;
+    margin-right: 400px;
+}
+
+figure.foto-legendapasseios1 img{
+    border-radius: 200px;
+    height: 200px;
+}
+
+figure.foto-legendapasseios2 img{
+    border-radius: 200px;
+    height: 200px;
+}
+
+figure.foto-legendapasseios3 img{
+    border-radius: 200px;
+    height: 200px;
+}
